@@ -27,12 +27,46 @@ I'm looking for patterns, scientific explanations in everything,what surrounds u
 
 ### Skills
 
-- HTML
-- CSS
-- JavaScript
-- React JS, Redux
-- Node.js
-- Version control: Git
-- Express
-- Jest
-- Windows OS, Linux(Ubuntu)
+- __HTML__
+- __CSS__
+- __JavaScript__
+- __React JS, Redux__
+- __Node.js__
+- __Version control: Git__
+- __Express__
+- __Jest__
+- __Windows OS, Linux(Ubuntu)__
+====
+### Code examples 
+
+```
+function isPrime(num) {
+  if (num < 2) return false;
+  else if (num === 2) return true;
+  else {
+    for (let i = 2; i <= Math.ceil(Math.sqrt(num)); i++) {
+      if (num % i == 0) {
+        return false;
+      }
+    }
+  }
+  return true;
+}
+
+```
+### Experience
+
+ I have a little experience in web development. I promoted the site for the sale of handmade bracelets(creation and layout of landing pages,work with JS, CSS, HTML, DOM, stylized project). Also  I have worked in the team on several small projects.
+
+====
+### Education 
+- Bachelor, RUSSIAN UNIVERSITY SPORT (SCOLIPE):
+  + Faculty of management
+- Courses:
+  + Elbrus Coding Bootcamp,
+  + Stepic ( Java core )
+
+### Languages 
+
+- English - B1(Intermediate)
+- French - B1(Intermediate)
