@@ -36,7 +36,8 @@ I'm looking for patterns, scientific explanations in everything,what surrounds u
 - __Express__
 - __Jest__
 - __Windows OS, Linux(Ubuntu)__
-====
+
+--- 
 ### Code examples 
 
 ```
@@ -58,15 +59,16 @@ function isPrime(num) {
 
  I have a little experience in web development. I promoted the site for the sale of handmade bracelets(creation and layout of landing pages,work with JS, CSS, HTML, DOM, stylized project). Also  I have worked in the team on several small projects.
 
-====
+---
 ### Education 
-- Bachelor, RUSSIAN UNIVERSITY SPORT (SCOLIPE):
+- __Bachelor__, RUSSIAN UNIVERSITY SPORT (SCOLIPE):
   + Faculty of management
-- Courses:
+- __Courses:__
   + Elbrus Coding Bootcamp,
-  + Stepic ( Java core )
+  + Stepic ( Java core, Algorithms and Data Structures )
+  + JavaScript Manual on learnjavascript.ru (in progress)
 
 ### Languages 
 
-- English - B1(Intermediate)
-- French - B1(Intermediate)
+- __English__ - B1 (Intermediate)
+- __French__ - B1 (Intermediate)
